@@ -29,12 +29,13 @@
 # **Soal:**
 
 Buat Sebuah Model, dengan ketentuan sebagai berikut: ( SCPMK 1682108 point 20)
-    1. Wajib menggunakan dataset public. ( SCPMK 1683914 point 20)
-    2. Proses mining wajib menerapkan kaidah(tahapan) dari data mining, mulai dari preprocessing sampai dengan metric evaluation. ( SCPMK 1681902 point 20)
-    3. Konsep mining boleh menggunakan pendekatan Predictive Analytics maupun Descriptive Analytics (Regresi, Klasifikasi, Time series Analysis, Association rule mining, Clustering, ataupun Sequence Discovery). ( SCPMK 1682111 point 20)
-    4. Tidak boleh menggunakan contoh kasus yang pernah dibahas di kelas. ( SCPMK 1682310 point 20)
-    5. Laporan disimpan dalam file berformat pdf, dengan format nama file UAS_namabelakang_fullnim.pdf
-    6. Format dan ketentuan penulisan dapat dilihat di https://s.amikom.ac.id/format-uas-bddm
-    7. Hasil kerja dipresentasikan dalam bentuk video upload di youtube dengan konten simulasi model dan penjelasan langkah-langkahnya. Durasi maksimal 15 menit. Link youtube dilampirkan pada laporan.
+
+* Wajib menggunakan dataset public. ( SCPMK 1683914 point 20)
+* Proses mining wajib menerapkan kaidah(tahapan) dari data mining, mulai dari preprocessing sampai dengan metric evaluation. ( SCPMK 1681902 point 20)
+* Konsep mining boleh menggunakan pendekatan Predictive Analytics maupun Descriptive Analytics (Regresi, Klasifikasi, Time series Analysis, Association rule mining, Clustering, ataupun Sequence Discovery). ( SCPMK 1682111 point 20)
+* Tidak boleh menggunakan contoh kasus yang pernah dibahas di kelas. ( SCPMK 1682310 point 20)
+* Laporan disimpan dalam file berformat pdf, dengan format nama file UAS_namabelakang_fullnim.pdf
+* Format dan ketentuan penulisan dapat dilihat di https://s.amikom.ac.id/format-uas-bddm
+* Hasil kerja dipresentasikan dalam bentuk video upload di youtube dengan konten simulasi model dan penjelasan langkah-langkahnya. Durasi maksimal 15 menit. Link youtube dilampirkan pada laporan.
 
     
